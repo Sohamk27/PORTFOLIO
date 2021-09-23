@@ -476,7 +476,7 @@ hr
     margin: 0;
     width: 100%;
     position: absolute;
-    top: 900px;
+    top: 950px;
 }
 #marks
 {
@@ -484,7 +484,8 @@ hr
     left: 40%;
     top: 750px;
 }
-#marks, th, td{
+#marks, th, td
+{
     margin: 2rem auto;
     /* width: 100%; */
     padding: 0.5rem;
@@ -497,6 +498,7 @@ hr
     top: 360px; */
 }
 
-th{
+th
+{
     color: #11324D;
 }
