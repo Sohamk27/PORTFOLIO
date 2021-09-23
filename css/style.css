@@ -478,3 +478,25 @@ hr
     position: absolute;
     top: 800px;
 }
+#marks
+{
+    position: absolute;
+    left: 40%;
+    top: 750px;
+}
+#marks, th, td{
+    margin: 2rem auto;
+    /* width: 100%; */
+    padding: 0.5rem;
+    border: 2px solid #000000;
+    color : #22577A;
+    border-collapse: collapse;
+    font-weight: bold;
+    /* position: absolute;
+    left: 45%;
+    top: 360px; */
+}
+
+th{
+    color: #11324D;
+}
